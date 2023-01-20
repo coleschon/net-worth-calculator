@@ -1,12 +1,13 @@
 # net-worth-calculator
 See all your financial account totals from the CLI using Plaid's bank APIs.
 
-![alt-text](https://github.com/coleschon/net-worth-calculator/blob/main/example-screenshot.png?raw=true)
-
 ### Motivation
 Do you have a note keeping track of your financials? Is it taking valuable time out of your day to keep this updated? \
 Well look no further, net-worth-calculator is a clean and minimalistic CLI tool to visualize all of your updated \
 account totals with the press of a button.
+
+#### Example
+![alt-text](https://github.com/coleschon/net-worth-calculator/blob/main/example-screenshot.png?raw=true)
 
 ### Steps
 1. Create a Plaid account and Development environment at https://plaid.com. A Dev environment is free and \
